@@ -1,39 +1,39 @@
-<h1 align="center">☀️ Project Name</h1>
+<h1 align="center">☀️ Personal Portfolio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Paiigg/repository?style=social">
-  <img src="https://img.shields.io/github/forks/Paiigg/repository?style=social">
-  <img src="https://img.shields.io/github/license/Paiigg/repository">
+  <img src="https://img.shields.io/github/stars/Paiigg/portfolio2025?style=social">
+  <img src="https://img.shields.io/github/forks/Paiigg/portfolio2025?style=social">
+  <img src="https://img.shields.io/github/license/Paiigg/portfolio2025">
 </p>
 
 ---
 
 ## 📌 Description  
-🌟 A short and **engaging** description of your project.  
-💡 Clearly explain its purpose and why it's useful!  
+💡 My Personal Portfolio!  
 
 ---
 
-## 🚀 Features  
-✔️ **Feature 1** – Brief explanation  
-✔️ **Feature 2** – Brief explanation  
-✔️ **Feature 3** – Brief explanation  
+## 🚀 Techstack  
+✔️ **Next.JS**  
+✔️ **Tailwind CSS**   
+✔️ **shadcn ui**  
+✔️ **Aceternity ui** 
 
 📌 *More features? Feel free to list them here!*  
-
+SOON
 ---
 
 ## 🦾 Installation  
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/repository.git
+git clone https://github.com/Paiigg/portfolio2025.git
 
 # Navigate to project directory
-cd repository
+cd portfolio2025
 
 # Install dependencies
 npm install
 
 # Start the project
-npm start
+npm run dev
