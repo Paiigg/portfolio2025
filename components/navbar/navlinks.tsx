@@ -34,7 +34,7 @@ const Navlinks = () => {
             <Link href="#project">Project</Link>
           </Button>
           <Button variant="outline" size="sm" asChild>
-            <Link href="/">
+            <Link download href="/faiqulwashfi.pdf">
               <FileDown /> Download CV
             </Link>
           </Button>

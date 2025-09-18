@@ -36,7 +36,7 @@ const TypewriterHero = () => {
 
         <div className="flex items-center gap-4">
           <Button variant="default" size="sm" asChild className="font-semibold">
-            <Link href="/">
+            <Link download href="/faiqulwashfi.pdf">
               <FileDown />
               Download CV
             </Link>
