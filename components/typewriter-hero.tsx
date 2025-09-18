@@ -32,7 +32,9 @@ const TypewriterHero = () => {
             }}
           />
         </h1>
-        <p className=" text-gray-400 md:w-[60%]">Not Bad.</p>
+        <p className=" text-gray-400  italic text-sm">
+          Be Brave, Be Kind, Be Unstoppable.
+        </p>
 
         <div className="flex items-center gap-4">
           <Button variant="default" size="sm" asChild className="font-semibold">
