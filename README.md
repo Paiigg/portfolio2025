@@ -15,6 +15,7 @@
 
 ## 🚀 Techstack  
 ✔️ **Next.JS**  
+✔️ **Typescript**  
 ✔️ **Tailwind CSS**   
 ✔️ **shadcn ui**  
 ✔️ **Aceternity ui** 
