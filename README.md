@@ -1,4 +1,5 @@
 <h1 align="center">☀️ Personal Portfolio</h1>
+<img width="1336" height="632" alt="Image" src="https://github.com/user-attachments/assets/bf316c85-f17d-4f1e-8eb4-4ed9b5cd8380" />
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Paiigg/portfolio2025?style=social">
