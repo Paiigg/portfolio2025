@@ -19,7 +19,7 @@ const TypewriterHero = () => {
           </span>
         </div>
         <h1 className="md:text-7xl font-bold text-4xl ">
-          Hello,👋 I'm{" "}
+          Hello,👋 I&apos;m{" "}
           <Typewriter
             options={{
               strings: [
